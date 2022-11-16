@@ -1,10 +1,9 @@
 
 - 🔭 I’m currently working on object detection in challenging  environments.
 - 🌱 I’m currently learning VIT/YOLO
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about deeplearning
+- 📫 How to reach me: 516358637@qq.com
+- 😄 Pronouns: Spider
 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=9Godjasen&theme=xcode" />
