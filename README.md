@@ -1,10 +1,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; Currently working with a company and improving my Frontend skills with React.js 
-- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Developer by profession.
-- 🌱 &nbsp; InfoSec Enthusiast. 
+- 🔭 &nbsp; Currently learning in Harbin Institute of Technology（HIT）
+- 🤔 &nbsp; Exploring new technologies and making boring stuffs automated.
+- 🎓 &nbsp; Studying Computer Science, Computer Vision and Mathematics.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends.
 <h3>🛠 Tech Stack</h3>
 
